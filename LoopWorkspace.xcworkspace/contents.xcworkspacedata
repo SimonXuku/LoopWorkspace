@@ -141,4 +141,7 @@
    <FileRef
       location = "group:EversenseKit/EversenseKit.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:TandemKit/TandemKit.xcodeproj">
+   </FileRef>
 </Workspace>

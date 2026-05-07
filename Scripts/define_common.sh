@@ -83,7 +83,7 @@ PROJECTS=( \
     bastiaanv:EversenseKit:dev \
     jbr7rr:MedtrumKit:dev \
     loopandlearn:OmnipodKit:main \
-    jwoglom:TandemKit:main \
+    jwoglom:TandemKit:dev \
 )
 
 function section_divider() {
